@@ -35,29 +35,33 @@ Coding
 "For every complex problem there is an answer that is clear, simple, and wrong."  
 — H. L. Mencken
 
+"Users want functionality, not code."  
+– A smart programmer
+
+"I try to minimize the amount of code I write. Each line of code is just another chance for a typo."  
+— A smart, unknown programmer
+
 "Engineers believe that if it ain’t broke, it doesn’t have enough features yet."  
 — Scott Adams
 
 "The first virtue of a software engineer is laziness — we are going to copy code from people smarter than us."  
 — paraphrasing James Aspnes
 
-"We reject:kings, presidents, and voting. We believe in: rough consensus and running code"  
-— Dave Clark
+"The sooner you start to code, the longer the program will take."  
+– Roy Carlson
 
-"Be conservative in what you do, be liberal in what you accept from others. Be conservative in what you send, be liberal in wh at you accept."  
-— Postel's law
+"The first 90 percent of the code accounts for the first 90 percent of the development time.  
+The remaining 10 percent of the code accounts for the other 90 percent of the development time."  
+— Tom Cargill
 
-"You can't make it better until you make it work."  
-— McBryan's Law
+"The purpose of computing is insight, not numbers." 
+— Richard Hamming
 
 "If you can’t write it down in English, you can’t code it." 
 – Peter Halpern
 
-"Users want functionality, not code."  
-– A smart programmer
-
-"I try to minimize the amount of code I write. Each line of code is just another chance for a typo."  
-— A smart, unknown programmer
+"You can't make it better until you make it work."  
+— McBryan's Law
 
 "We have to realize that computers are simulators and then figure out what to simulate."  
 — Alan Kay
@@ -69,22 +73,19 @@ Good programmers worry about data structures and their relationships."
 "I’m not a big visionary. I’m a very plodding pedestrian engineer, and I try to keep my eyes firmly on the ground. I’ll let others make the big predictions about where we’ll be in 5, 10 or 25 years—I think we’ll do fine as long as we keep track of all the small day—to—day details, and try to do the best we can."  
 — Linus Torvalds 
 
-"The first 90 percent of the code accounts for the first 90 percent of the development time.  
-The remaining 10 percent of the code accounts for the other 90 percent of the development time."  
-— Tom Cargill
-
-"The purpose of computing is insight, not numbers." 
-— Richard Hamming
-
 "The best new ideas live at the boundary between the real world and software."
 — Adam MacBeth
 
-"The sooner you start to code, the longer the program will take."  
-– Roy Carlson
+"We reject: kings, presidents, and voting.    
+We believe in: rough consensus and running code"  
+— Dave Clark
+
+"Be conservative in what you send, be liberal in what you accept."  
+— Postel's law
 
 "What's the name for a company that can be valued billion dollars before they see a dime in revenue?
 
-A Panda —By all laws of nature they should no longer exist, but due to human intervention, they do."  
+A Panda — By all laws of nature they should no longer exist, but due to human intervention, they do."  
 — Internet forums
 
 ----
@@ -92,7 +93,7 @@ Teaching
 -----
 
 Luke: "You need a teacher. I won't teach you."
-Rey: "Why? I've seen your daily routine; you are not busy.""
+Rey: "Why? I've seen your daily routine; you are not busy."  
 — Star Wars, The Force Awakens
 
 "Any drill that 75% of the people cannot catch on to right away has to be eliminated, no matter how good it is."  

@@ -28,11 +28,11 @@ __DISCLAIMER__:
 
 "At some point, I just realized that this will always be hard for me. 
 
-Once I made my peace with that, I stopped getting frustrated or surprised when something was hard for me, and now I can just get to work."
-— Brian Spiering's student
+Once I made my peace with that, I stopped getting frustrated or surprised when something was hard for me, and now I can just get to work."  
+— A former student
 
 "Create systems that:    
 Make easy things automated  
 Make hard things easy 
-Make impossible things possible"
+Make impossible things possible"  
 — Intentionally misquoting Larry Wall

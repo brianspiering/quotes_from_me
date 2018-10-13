@@ -92,7 +92,7 @@ A Panda — By all laws of nature they should no longer exist, but due to human 
 Teaching
 -----
 
-Luke: "You need a teacher. I won't teach you."
+Luke: "You need a teacher. I won't teach you."   
 Rey: "Why? I've seen your daily routine; you are not busy."  
 — Star Wars, The Force Awakens
 
@@ -106,7 +106,7 @@ Life
 "The best thing that can happen to a human being is to find a problem, to fall in love with that problem, and to live trying to solve that problem, unless another problem even more lovable appears."  
 — Karl Popper
 
-"It doesn't get any easier, you just get faster" 
+"It doesn't get any easier, you just get faster." 
 — Greg LeMond
 
 "Plan in decades. Think in years. Work in months. Live in days."  
@@ -135,6 +135,9 @@ Life
 
 "The future is already here—it’s just not evenly distributed."  
 — William Gibson
+
+"Repetition is the mother of implementation."  
+— Dan John  
 
 —————
 Other sources

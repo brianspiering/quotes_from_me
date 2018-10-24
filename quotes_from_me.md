@@ -12,6 +12,8 @@ __DISCLAIMER__:
 
 "The journey of a thousand miles begins with finding your shoes."
 
+"Data is the world's best regularizer."
+
 "Dockerized is the new serialized."
 
 "Python 2 is the new COBOL"

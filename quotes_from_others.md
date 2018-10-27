@@ -13,16 +13,16 @@ Table of Contents
 Data
 ----
 
-"I like my data large, my algorithms simple, and my labels weak."
+"I like my data large, my algorithms simple, and my labels weak."  
 — Andrej Karpathy
 
-"I'm not even sure they are sentient — I mean, they're, what, a ten—million—neuron network hooked—up to a syntax engine and a crappy knowledge base? What kind of basis for intelligence is that?"
+"I'm not even sure they are sentient — I mean, they're, what, a ten—million—neuron network hooked—up to a syntax engine and a crappy knowledge base? What kind of basis for intelligence is that?"  
 — Charles Stross, Accelerando
 
 "Get the data model right and everything else falls into place."  
 — ams6110
 
-"All data is linear when plotted a log log plot with fat marker."
+"All data is linear when plotted a log log plot with fat marker."  
 — Mar's Law
 
 "In God we trust. All others must bring data."   
@@ -57,10 +57,10 @@ Coding
 The remaining 10 percent of the code accounts for the other 90 percent of the development time."  
 — Tom Cargill
 
-"The purpose of computing is insight, not numbers." 
+"The purpose of computing is insight, not numbers."  
 — Richard Hamming
 
-"If you can’t write it down in English, you can’t code it." 
+"If you can’t write it down in English, you can’t code it."  
 – Peter Halpern
 
 "You can't make it better until you make it work."  
@@ -130,16 +130,16 @@ Life
 "The most important things are the hardest to say, because words diminish them."   
 — Stephen King
 
-"If it is important, do it every day. If it isn’t, don’t do it at all."  
+"If it is important, do it every day. If it isn’t, don’t do it at all."   
 — Dan Gable
 
-"Only recruit two things: speed and smarts. You can teach everything else."  
+"Only recruit two things: speed and smarts. You can teach everything else."   
 — Ralph Maughan
 
-"The future is already here—it’s just not evenly distributed."  
+"The future is already here—it’s just not evenly distributed."   
 — William Gibson
 
-"Repetition is the mother of implementation."  
+"Repetition is the mother of implementation."   
 — Dan John  
 
 —————

@@ -35,11 +35,8 @@ Data
 Coding
 ----
 
-"For every complex problem there is an answer that is clear, simple, and wrong."  
-— H. L. Mencken
-
 "Users want functionality, not code."  
-– A smart programmer
+— A smart, unknown programmer
 
 "I try to minimize the amount of code I write. Each line of code is just another chance for a typo."  
 — A smart, unknown programmer
@@ -111,6 +108,9 @@ Life
 
 "It doesn't get any easier, you just get faster." 
 — Greg LeMond
+
+"For every complex problem there is an answer that is clear, simple, and wrong."  
+— H. L. Mencken
 
 "Plan in decades. Think in years. Work in months. Live in days."  
 — Nic Haralambous

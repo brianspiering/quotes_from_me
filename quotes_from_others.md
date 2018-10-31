@@ -66,6 +66,12 @@ The remaining 10 percent of the code accounts for the other 90 percent of the de
 "We have to realize that computers are simulators and then figure out what to simulate."  
 — Alan Kay
 
+"Make it work, Make it right, Make it fast. In that order."
+— Ken Beck
+
+"The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do."
+— Andrew Singer
+
 "Bad programmers worry about the code.   
 Good programmers worry about data structures and their relationships."  
 — Linus Torvalds

@@ -28,7 +28,7 @@ __DISCLAIMER__:
 
 "Algorithms are mostly simple.
 The final code is often simple.
-Finding the algorithm and writing the final code is surprisely complex."
+Finding the proper algorithm and writing the final code can be surprisingly complex."
 
 "Similar to physical architecture, you make computing infrastructure first. After creation, infrastructure defines limiting patterns of movement and thought."
 

@@ -26,6 +26,10 @@ __DISCLAIMER__:
 
 "This assignment requires you to write 2 lines of code that will be ~100 characters. Like all computer science challenges, it will require more thinking than writing."
 
+"Algorithms are mostly simple.
+The final code is often simple.
+Finding the algorithm and writing the final code is surprisely complex."
+
 "Similar to physical architecture, you make computing infrastructure first. After creation, infrastructure defines limiting patterns of movement and thought."
 
 "At some point, I just realized that this will always be hard for me. 

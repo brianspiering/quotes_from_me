@@ -14,6 +14,8 @@ __DISCLAIMER__:
 
 "Data is the world's best regularizer."
 
+"Analytics is combinatorial, time is linear."
+
 "Dockerized is the new serialized."
 
 "Python 2 is the new COBOL"

@@ -3,10 +3,12 @@ Brian's Spiering's Quotes
 
 __DISCLAIMER__: 
 
-"Most quotes are misattributed, especially on the Internet"
+"Most quotes are misattributed, especially on the Internet"  
 — Abraham Lincoln
 
 ------
+
+"Metrics are like swimsuits. They show some things, but they don't show everything."
 
 "Management: A Pie Eating Contest Where First Prize is More Pie"
 

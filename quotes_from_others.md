@@ -152,5 +152,6 @@ Life
 Other sources
 -----
 
+- [Programming Bumper Sticker / Programming Pearls](http://www.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf)
 - [Peter Norvig's quotations](https://norvig.com/quotations.html)  
 - [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)

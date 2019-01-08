@@ -152,5 +152,5 @@ Life
 Other sources
 -----
 
-— [Peter Norvig's quotations](https://norvig.com/quotations.html)
-— [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
+- [Peter Norvig's quotations](https://norvig.com/quotations.html)  
+- [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)

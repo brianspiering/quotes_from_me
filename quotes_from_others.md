@@ -89,10 +89,8 @@ We believe in: rough consensus and running code"
 "Be conservative in what you send, be liberal in what you accept."  
 — Postel's law
 
-"What's the name for a company that can be valued billion dollars before they see a dime in revenue?
-
-A Panda — By all laws of nature they should no longer exist, but due to human intervention, they do."  
-— Internet forums
+"…highly polarized opinions about languages and frameworks are characteristic of people who lack real-world programming experience and are more interested in building an identity than creating computer programs."   
+— https://github.com/nukeop
 
 ----
 Teaching
@@ -147,6 +145,11 @@ Life
 
 "Repetition is the mother of implementation."   
 — Dan John  
+
+"What's the name for a company that can be valued billion dollars before they see a dime in revenue?
+
+A Panda — By all laws of nature they should no longer exist, but due to human intervention, they do."  
+— Internet forums
 
 -----
 Other sources

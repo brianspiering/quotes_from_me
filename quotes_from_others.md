@@ -110,6 +110,9 @@ Life
 "The best thing that can happen to a human being is to find a problem, to fall in love with that problem, and to live trying to solve that problem, unless another problem even more lovable appears."  
 — Karl Popper
 
+"It’s easier to act your way into a new way of thinking, than think your way into a new way of acting."  
+— Unknown
+
 "It doesn't get any easier, you just get faster." 
 — Greg LeMond
 

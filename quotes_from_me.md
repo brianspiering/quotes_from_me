@@ -18,6 +18,8 @@ __DISCLAIMER__:
 
 "Analytics is combinatorial, time is linear."
 
+"Most problems in Data Science can be solved with Bayes Theorem, a hashtable, or a database."
+
 "Dockerized is the new serialized."
 
 "Python 2 is the new COBOL"

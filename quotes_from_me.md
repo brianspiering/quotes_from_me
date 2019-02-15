@@ -8,6 +8,8 @@ __DISCLAIMER__:
 
 ------
 
+"Algorithms are king; Implementations are queen."
+
 "Metrics are like swimsuits. They show some things, but they don't show everything."
 
 "Management: A Pie Eating Contest Where First Prize is More Pie"

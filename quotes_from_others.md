@@ -149,6 +149,9 @@ Life
 "Repetition is the mother of implementation."   
 — Dan John  
 
+"What we have before us are some breathtaking opportunities disguised as insoluble problems."   
+— John Gardner
+
 "What's the name for a company that can be valued billion dollars before they see a dime in revenue?
 
 A Panda — By all laws of nature they should no longer exist, but due to human intervention, they do."  

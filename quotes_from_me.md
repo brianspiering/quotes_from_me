@@ -45,10 +45,10 @@ Finding the proper algorithm and writing the final code can be surprisingly comp
 "Once I made my peace with that, I stopped getting frustrated or surprised when something was hard for me, and now I can just get to work."  
 — A former student
 
-"Create systems that:    
-Make easy things automated  
-Make hard things easy 
-Make impossible things possible"  
+"Create systems that:     
+Make easy things automated   
+Make hard things easy    
+Make impossible things possible"    
 — Intentionally misquoting Larry Wall
 
 "Knowledge worker adds value to information."   

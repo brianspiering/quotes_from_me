@@ -12,6 +12,10 @@ __DISCLAIMER__:
 
 "Metrics are like swimsuits. They show some things, but they don't show everything."
 
+"Accuracy is the pie chart of performance metrics."
+
+"Time is linear. Analysis ideas are combinatorial."
+
 "Management: A Pie Eating Contest Where First Prize is More Pie"
 
 "In Silicion Valley, either you write code or write emails. Choose wisely."

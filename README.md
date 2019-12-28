@@ -16,9 +16,9 @@ __DISCLAIMER__:
 
 "Time is linear. Analysis ideas are combinatorial."
 
-"Management: A Pie Eating Contest Where First Prize is More Pie"
+"Management: A Pie Eating Contest Where First Prize is More Pie."
 
-"In Silicion Valley, either you write code or write emails. Choose wisely."
+"In Silicon Valley, either you write code or write emails. Choose wisely."
 
 "The journey of a thousand miles begins with finding your shoes."
 
@@ -30,9 +30,7 @@ __DISCLAIMER__:
 
 "Dockerized is the new serialized."
 
-"Python 2 is the new COBOL"
-
-"The best coding solutions are simple and elegant. Writing those solutions is often complex and messy. "
+"Python 2 is the new COBOL."
 
 "Never confuse the brilliant performance with the drudgery of practice."
 
@@ -40,11 +38,15 @@ __DISCLAIMER__:
 
 "This assignment requires you to write 2 lines of code that will be ~100 characters. Like all computer science challenges, it will require more thinking than writing."
 
+"The best coding solutions are simple and elegant. Writing those solutions is often complex and messy."
+
 "Algorithms are mostly simple.
 The final code is often simple.
 Finding the proper algorithm and writing the final code can be surprisingly complex."
 
 "Similar to physical architecture, you make computing infrastructure first. After creation, infrastructure defines limiting patterns of movement and thought."
+
+"My goal is not to be new; My goal is to be correct."
 
 "At some point, I just realized that this will always be hard for me. 
 

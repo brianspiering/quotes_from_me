@@ -46,6 +46,8 @@ Finding the proper algorithm and writing the final code can be surprisingly comp
 
 "Similar to physical architecture, you make computing infrastructure first. After creation, infrastructure defines limiting patterns of movement and thought."
 
+"Life is too short for manual looping, use vectorized operations or optimized functions."
+
 "My goal is not to be new; My goal is to be correct."
 
 "At some point, I just realized that this will always be hard for me. 

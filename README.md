@@ -48,11 +48,15 @@ Finding the proper algorithm and writing the final code can be surprisingly comp
 
 "Life is too short for manual looping, use vectorized operations or optimized functions."
 
-"My goal is not to be new; My goal is to be correct."
+"My goal is not to be novel; My goal is to be correct."
+
+"Question: What is cheaper than more hardware?
+
+Answer: Math!"   
 
 "At some point, I just realized that this will always be hard for me. 
 
-"Once I made my peace with that, I stopped getting frustrated or surprised when something was hard for me, and now I can just get to work."  
+Once I made my peace with that, I stopped getting frustrated or surprised when something was hard for me, and now I can just get to work."  
 — A former student
 
 "Create systems that:     

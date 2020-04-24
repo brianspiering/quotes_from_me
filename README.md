@@ -9,6 +9,12 @@ __DISCLAIMER__:
 ------
 
 "AI won't replace all _______________ (factory workers, doctors, …) but ____________ who don't use AI will be replace by those that do."
+ 
+"Question: What is more expensive to a business than people?"  
+"Answer: Downtime"
+
+"Question: What is cheaper than more hardware?"  
+"Answer: Math!"   
 
 "Algorithms are king; Implementations are queen."
 
@@ -22,13 +28,11 @@ __DISCLAIMER__:
 
 "In Silicon Valley, either you write code or write emails. Choose wisely."
 
-"The journey of a thousand miles begins with finding your shoes."
-
 "Data is the world's best regularizer."
 
 "Analytics is combinatorial, time is linear."
 
-"Most problems in Data Science can be solved with Bayes Theorem, a hashtable, or a database."
+"Most problems in Data Science can be solved with Bayes Theorem, a hashtable, and a database."
 
 "Dockerized is the new serialized."
 
@@ -52,9 +56,7 @@ Finding the proper algorithm and writing the final code can be surprisingly comp
 
 "My goal is not to be novel; My goal is to be correct."
 
-"Question: What is cheaper than more hardware?
-
-Answer: Math!"   
+"The journey of a thousand miles begins with finding your shoes."
 
 "At some point, I just realized that this will always be hard for me. 
 
@@ -62,13 +64,13 @@ Once I made my peace with that, I stopped getting frustrated or surprised when s
 — A former student
 
 "Create systems that:     
-Make easy things automated   
-Make hard things easy    
-Make impossible things possible"    
+Make easy things automated.   
+Make hard things easy.    
+Make impossible things possible."    
 — Intentionally misquoting Larry Wall
 
-"Knowledge worker adds value to information."   
+"A knowledge worker adds value to information."   
 — Peter Drucker
 
-"Data Scientist adds value to data."   
+"A data scientist adds value to data."   
 — Brian Spiering

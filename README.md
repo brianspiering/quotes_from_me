@@ -11,7 +11,7 @@ __DISCLAIMER__:
 "AI won't replace all _______________ (factory workers, doctors, …) but ____________ who don't use AI will be replace by those that do."
  
 "Question: What is more expensive to a business than people?"  
-"Answer: Downtime"
+"Answer: Downtime!"
 
 "Question: What is cheaper than more hardware?"  
 "Answer: Math!"   

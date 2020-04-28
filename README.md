@@ -80,6 +80,18 @@ Make impossible things possible."
 
 ----
 
-As far as learning computer programming from first principles…
+When I'm asked about learning computer programming from first principles…
 
-I started to play drums a while back. It was fun. I went bought a used kit and just started banged on the kit. I made a joyful noise. I wanted to play with others so I learned the forms of music so we collaborate. Then I was told to really understand drums I had to study books. So I read. Then I was told to really understand drums I had to read music. So I took a class. Next I was told to really understand drums I had to get a degree. So I did. Next I was told to really understand drums I have to build my own drum kit. So I went bought all the individual pieces and assembled in my own kit. Next I was told to really understand drums I had to build my own drums from scratch. So I went I bought some goats to make my own drum heads. Now I spend my time raising goats and don't have much time to bang on the drums. However, the goats make their own joyful noise.
+I started to play drums a while back. It was fun. I went bought a used drum set and just started banging on it. I made a joyful noise. 
+
+I wanted to play with others so I learned the forms of music so we could collaborate. 
+
+Then I was told to really understand drums I had to study books. So I read. 
+
+Then I was told to really understand drums I had to read music. So I took a class. 
+
+Next I was told to really understand drums I had to get a degree. So I did. 
+
+Next I was told to really understand drums I have to build my own drum kit. So I went bought all the individual pieces and assembled in my own kit. 
+
+Next I was told to really understand drums I had to build my own drums from scratch. So I went and bought some goats to make my own drum heads. Now I spend my time raising goats and don't have much time to bang on the drums. However, the goats make their own joyful noise.

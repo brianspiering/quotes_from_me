@@ -16,6 +16,9 @@ __DISCLAIMER__:
 "Question: What is cheaper than more hardware?"  
 "Answer: Math!"   
 
+"I don't spend my time wishing for a light pack,   
+I train for a strong back."
+
 "Algorithms are king; Implementations are queen."
 
 "Metrics are like swimsuits. They show some things, but they don't show everything."
@@ -74,3 +77,9 @@ Make impossible things possible."
 
 "A data scientist adds value to data."   
 — Brian Spiering
+
+----
+
+As far as learning computer programming from first principles…
+
+I started to play drums a while back. It was fun. I went bought a used kit and just started banged on the kit. I made a joyful noise. I wanted to play with others so I learned the forms of music so we collaborate. Then I was told to really understand drums I had to study books. So I read. Then I was told to really understand drums I had to read music. So I took a class. Next I was told to really understand drums I had to get a degree. So I did. Next I was told to really understand drums I have to build my own drum kit. So I went bought all the individual pieces and assembled in my own kit. Next I was told to really understand drums I had to build my own drums from scratch. So I went I bought some goats to make my own drum heads. Now I spend my time raising goats and don't have much time to bang on the drums. However, the goats make their own joyful noise.

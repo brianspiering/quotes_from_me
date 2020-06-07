@@ -8,7 +8,7 @@ __DISCLAIMER__:
 
 ------
 
-"AI won't replace all _______________ (factory workers, doctors, …) but ____________ who don't use AI will be replace by all those that do."
+"AI won't replace all _______________ (factory workers, doctors, …) but ____________ (factory workers, doctors, …)  who don't use AI will be replace by all those that do."
  
 "Question: What is more expensive to a business than people?"  
 "Answer: Downtime!"
@@ -19,7 +19,7 @@ __DISCLAIMER__:
 "I don't spend my time wishing for a light pack,   
 I train for a strong back."
 
-"Algorithms are king; Implementations are queen."
+
 
 "Metrics are like swimsuits. They show some things, but they don't show everything."
 
@@ -40,6 +40,11 @@ I train for a strong back."
 "Dockerized is the new serialized."
 
 "Python 2 is the new COBOL."
+
+"Algorithms are king; Implementations are queen."
+
+"First, prioritize writing code quickly.   
+Second, prioritize writing quick code."
 
 "Never confuse the brilliant performance with the drudgery of practice."
 

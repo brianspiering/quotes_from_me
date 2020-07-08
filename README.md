@@ -19,8 +19,6 @@ __DISCLAIMER__:
 "I don't spend my time wishing for a light pack,   
 I train for a strong back."
 
-
-
 "Metrics are like swimsuits. They show some things, but they don't show everything."
 
 "Accuracy is the pie chart of performance metrics."
@@ -29,7 +27,7 @@ I train for a strong back."
 
 "Management: A Pie Eating Contest Where First Prize is More Pie."
 
-"In Silicon Valley, either you write code or write emails. Choose wisely."
+"In Silicon Valley, you either write code or write emails. Choose wisely."
 
 "Data is the world's best regularizer."
 
@@ -60,7 +58,7 @@ Finding the proper algorithm and writing the final code can be surprisingly comp
 
 "Similar to physical architecture, you make computing infrastructure first. After creation, infrastructure defines limiting patterns of movement and thought."
 
-"Life is too short for manual looping, use vectorized operations or optimized functions."
+"Life is too short for manual looping - use vectorized operations or optimized functions."
 
 "My goal is not to be novel; My goal is to be correct."
 
@@ -82,6 +80,9 @@ Make impossible things possible."
 
 "A data scientist adds value to data."   
 — Brian Spiering
+
+> Do not be the person who has practiced 10,000 things once, but be the person who has practiced one thing 10,000 times.
+> — Intentially misquoting Bruce Lee
 
 ----
 

@@ -25,6 +25,8 @@ I train for a strong back."
 
 "Time is linear. Analysis ideas are combinatorial."
 
+"I rather delete code than write code."
+
 "Management: A Pie Eating Contest Where First Prize is More Pie."
 
 "In Silicon Valley, you either write code or write emails. Choose wisely."

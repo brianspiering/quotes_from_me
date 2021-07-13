@@ -14,7 +14,7 @@ __DISCLAIMER__:
 "Answer: Downtime! (Hire the right people)" 
 
 "Question: What is cheaper than more hardware?"  
-"Answer: Math! (Study the right math)"   
+"Answer: Math! (Apply the right math)"   
 
 "I don't spend my time wishing for a light pack,   
 I train for a strong back."

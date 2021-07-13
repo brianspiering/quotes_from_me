@@ -8,13 +8,13 @@ __DISCLAIMER__:
 
 ------
 
-"AI won't replace all _______________ (factory workers, doctors, …) but ____________ (factory workers, doctors, …)  who don't use AI will be replace by all those that do."
+"AI won't replace all _______________ (factory workers, doctors, farmers, …) but ____________ (factory workers, doctors, farmers, …)  who don't use AI will be replace by all those that do."
  
 "Question: What is more expensive to a business than people?"  
-"Answer: Downtime!"
+"Answer: Downtime! (Hire the right people)" 
 
 "Question: What is cheaper than more hardware?"  
-"Answer: Math!"   
+"Answer: Math! (Study the right math)"   
 
 "I don't spend my time wishing for a light pack,   
 I train for a strong back."
@@ -33,9 +33,7 @@ I train for a strong back."
 
 "Data is the world's best regularizer."
 
-"Analytics is combinatorial, time is linear."
-
-"Most problems in Data Science can be solved with Bayes Theorem, a hashtable, and a database."
+"Most problems in Data Science can be solved with a hashtable, a database, and Bayes Theorem."
 
 "Dockerized is the new serialized."
 
@@ -58,11 +56,12 @@ Second, prioritize writing quick code."
 The final code is often simple.
 Finding the proper algorithm and writing the final code can be surprisingly complex."
 
-"Similar to physical architecture, you make computing infrastructure first. After creation, infrastructure defines limiting patterns of movement and thought."
+"Similar to physical architecture, you make computing infrastructure first.   
+After creation, infrastructure defines limiting patterns of movement and thought."
 
 "Life is too short for manual looping - use vectorized operations or optimized functions."
 
-"My goal is not to be novel; My goal is to be correct."
+"My aim is not to be novel; My aim is to be correct."
 
 "The journey of a thousand miles begins with finding your shoes."
 
@@ -83,8 +82,8 @@ Make impossible things possible."
 "A data scientist adds value to data."   
 — Brian Spiering
 
-> Do not be the person who has practiced 10,000 things once, but be the person who has practiced one thing 10,000 times.
-> — Intentially misquoting Bruce Lee
+> Do not be the person who has practiced 10,000 things once, but be the person who has practiced one thing 10,000 times.  
+— Intentially misquoting Bruce Lee
 
 ----
 

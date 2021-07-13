@@ -82,7 +82,7 @@ Make impossible things possible."
 "A data scientist adds value to data."   
 — Brian Spiering
 
-> Do not be the person who has practiced 10,000 things once, but be the person who has practiced one thing 10,000 times.  
+"Do not be the person who has practiced 10,000 things once, but be the person who has practiced one thing 10,000 times."   
 — Intentially misquoting Bruce Lee
 
 ----

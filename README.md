@@ -23,7 +23,7 @@ I train for a strong back."
 
 "Accuracy is the pie chart of performance metrics."
 
-"Time is linear. Analysis ideas are combinatorial."
+"My time is linear. Analysis ideas are combinatorial. Training state-of-the-art models is exponential."
 
 "I rather delete code than write code."
 

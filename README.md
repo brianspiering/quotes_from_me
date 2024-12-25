@@ -8,13 +8,13 @@ __DISCLAIMER__:
 
 ------
 
-"AI won't replace all _______________ (factory workers, doctors, farmers, …) but ____________ (factory workers, doctors, farmers, …)  who don't use AI will be replace by all those that do."
+"AI won't replace all _______________ (programmers, factory workers, doctors, farmers, …) but ____________ (programmers, factory workers, doctors, farmers, …)  who don't use AI will be replace by all those that do."
  
 "Question: What is more expensive to a business than people?"  
-"Answer: Downtime! (Hire the right people)" 
+"Answer: Downtime! (Thus, find and hire the right people)" 
 
 "Question: What is cheaper than more hardware?"  
-"Answer: Math! (Apply the right math)"   
+"Answer: Math! (Thus, find and apply the right math)"   
 
 "I don't spend my time wishing for a light pack,   
 I train for a strong back."

@@ -80,10 +80,10 @@ Make impossible things possible."
 "A data scientist adds value to data."   
 — Brian Spiering
 
-"Be creative. Men only learnt how to fly when they stopped imitating birds."
+"Be creative. Men only learnt how to fly when they stopped imitating birds."  
 — Paulo Coelho  
 
-"Be creative. Humanity will only learn how to create intelligence we stop imitating biological brains."
+"Be creative. Humanity will only learn how to create intelligence we stop imitating biological brains."  
 — Brian Spiering  
 
 "Do not be the person who has practiced 10,000 things once, but be the person who has practiced one thing 10,000 times."   

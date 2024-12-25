@@ -16,8 +16,7 @@ __DISCLAIMER__:
 "Question: What is cheaper than more hardware?"  
 "Answer: Math! (Thus, find and apply the right math)"   
 
-"I don't spend my time wishing for a light pack,   
-I train for a strong back."
+"I don't spend my time wishing for a light pack, I train for a strong back."
 
 "Metrics are like swimsuits. They show some things, but they don't show everything."
 
@@ -61,12 +60,11 @@ After creation, infrastructure defines limiting patterns of movement and thought
 
 "Life is too short for manual looping - use vectorized operations or optimized functions."
 
-"My aim is not to be novel; My aim is to be correct."
+"I value optimality over originality."
 
 "The journey of a thousand miles begins with finding your shoes."
 
-"At some point, I just realized that this will always be hard for me. 
-
+"At some point, I just realized that this will always be hard for me.  
 Once I made my peace with that, I stopped getting frustrated or surprised when something was hard for me, and now I can just get to work."  
 — A former student
 
@@ -85,7 +83,7 @@ Make impossible things possible."
 "Be creative. Men only learnt how to fly when they stopped imitating birds."
 — Paulo Coelho  
 
-"Be creative. Humanity will only learn how to create intelligence we stop imitating biological brains"
+"Be creative. Humanity will only learn how to create intelligence we stop imitating biological brains."
 — Brian Spiering  
 
 "Do not be the person who has practiced 10,000 things once, but be the person who has practiced one thing 10,000 times."   
@@ -93,7 +91,7 @@ Make impossible things possible."
 
 ----
 
-When I'm asked about learning computer programming from first principles I share this story…
+When I'm asked about learning computer programming from first principles, I share this story…
 
 I started to play drums a while back. It was fun. I went and bought a used drum set and just started banging on it. I made a joyful noise. 
 

@@ -97,7 +97,7 @@ I started to play drums a while back. It was fun. I went and bought a used drum 
 
 I wanted to play with others so I learned the forms of music so we could collaborate. 
 
-Then I was told to really understand drums I had to learn other player's style. So I listened to their music. 
+Then I was told to really understand drums I had to learn from other players. So I listened to their music. 
 
 Next I was told to really understand drums I had to read music. So I read books.
 

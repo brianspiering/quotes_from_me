@@ -89,6 +89,13 @@ Make impossible things possible."
 "Do not be the person who has practiced 10,000 things once, but be the person who has practiced one thing 10,000 times."   
 — Intentially misquoting Bruce Lee
 
+"Toys facilitate adventures."   
+ "Adventures are facilitated by:  
+ 1. Capacity
+ 2. Skill
+ 3. Equipment"  
+
+
 ----
 
 When I'm asked about learning computer programming from first principles, I share this story…

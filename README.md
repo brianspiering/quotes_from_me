@@ -68,6 +68,12 @@ After creation, infrastructure defines limiting patterns of movement and thought
 Once I made my peace with that, I stopped getting frustrated or surprised when something was hard for me, and now I can just get to work."  
 — A former student
 
+"Make it run,  
+Make it correct,  
+Make it maintainable.  
+In that order."  
+— Intentionally misquoting Ken Beck  
+
 "Create systems that:     
 Make easy things automated.   
 Make hard things easy.    
